@@ -16,7 +16,7 @@
 <div align="center">
   <img  width="700px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/home.JPG" />
   <img  width="700px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/modal.JPG" />
-  <img  width="700px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/Record_2022-11-10-10-23-09_AdobeExpress.gif" />
+  <img  width="300px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/Record_2022-11-10-10-23-09_AdobeExpress.gif" />
 </div>
 
 ## :page_facing_up: Descrição

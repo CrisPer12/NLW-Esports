@@ -27,17 +27,16 @@ O Esports é um aplicação de gamers para gamers, desenvolvida durante o Next L
 Este projeto foi desenvolvido com as seguintes tecnologias
 
 - [React.js](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [ViteJs](https://vitejs.dev/guide/)
 - [Phosphor-Icons](https://phosphoricons.com/)
 - [GraphCMS](https://graphcms.com/)
 
 ## :clipboard: Funcionalidades
-- [x] Se inscrever no evento.
-- [x] Lista de Aulas não disponíveis.
-- [x] Lista de Aulas disponíveis.
-- [x] Acesso a material complementar.
-- [x] Acesso a desafios.
+- [x] Listagem de anúncios de games.
+- [x] Criação de Anúncios.
+- [x] Compartilhamento de usuários Discords.
 
 
 ## :closed_book: Instalação
@@ -48,18 +47,30 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/CrisPer12/code-platform.git
+$ gh repo clone CrisPer12/NLW-Esports
 
-# Vá para a pasta code-platform
-$ cd code-platform
+# Vá para a pasta server
+$ cd server
+
+# Vá para a pasta web
+$ cd web
+
+# Vá para a pasta mobile
+$ cd mobile
 
 # Instale as dependências
 $ npm install 
 
-# Execute aplicação
+# Execute aplicação server
 $ npm run dev
 
-# O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
+# Execute aplicação web
+$ npm run dev
+
+# Execute aplicação mobile
+$ expo start
+
+
 ```
 
 
